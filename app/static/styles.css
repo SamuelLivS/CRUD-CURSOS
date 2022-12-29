@@ -1,0 +1,32 @@
+#result {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    z-index: 100;
+}
+
+.none {
+    display: none;
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+}
+
+main {
+    padding-top: 5rem;
+}
+
+.sec-title {
+    height: 184px;
+    background: #E9ECEF;
+    border-radius: 4.8px;
+}
+
+/* .sec-title h1 {
+    padd
+} */
